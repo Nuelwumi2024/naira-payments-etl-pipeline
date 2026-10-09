@@ -1,0 +1,10 @@
+﻿data/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+target/
+dbt_packages/
+logs/
